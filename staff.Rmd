@@ -28,7 +28,7 @@ David Kane is the Preceptor in Statistical Methods and Mathematics in the Depart
 knitr::include_graphics("images/dario.jpg")
 ```
 
-Dario Anaya a rising senior at Andrean High School in Merrillville, Indiana.
+Dario Anaya is the Program Director for Kane’s Data Science Bootcamp. He is a rising senior at Andrean High School in Merrillville, Indiana. Please contact Dario via email with any questions: danaya.student@andreanhs.com
 
 &nbsp;
 
