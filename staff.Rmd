@@ -19,3 +19,12 @@ knitr::include_graphics("images/david_kane.png")
 
 &nbsp;
 
+## Nuo Wen Lei
+
+```{r nuowen, out.width ="50%"}
+knitr::include_graphics("images/nuowen.jpg")
+```
+
+[Nuo Wen Lei](https://github.com/NuoWenLei) is a graduating student from Concord Academy interested in pursuing Data Science in college. 
+
+&nbsp;
