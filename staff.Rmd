@@ -45,6 +45,13 @@ knitr::include_graphics("images/tejas.jpeg")
 
 &nbsp;
 
+## Varun Dommeti
+
+```{r varun, out.width ="50%"}
+knitr::include_graphics("images/varun.jpeg")
+```
+
+[Varun Dommeti](https://github.com/d-varun) is an incoming Sophomore at Dublin Jerome High School.
 
 ## Stephanie Saab
 
